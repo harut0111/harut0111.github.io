@@ -130,6 +130,9 @@ img {
 img:hover{
   border: 3px solid white;
 }
+.portfolioContainer img{
+  border-radius: 10px;
+}
 .work-item{
   display: inline-block;
   margin: 15px;
