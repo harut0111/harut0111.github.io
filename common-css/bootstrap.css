@@ -130,12 +130,18 @@ img {
 img:hover{
   border: 3px solid white;
 }
+
+.portfolioContainer{
+  display: flex;
+  justify-content: space-around;
+}
+
 .portfolioContainer img{
   border-radius: 10px;
 }
 .work-item{
   display: inline-block;
-  margin: 15px;
+  margin: 10px;
 }
 svg:not(:root) {
   overflow: hidden;
