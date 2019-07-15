@@ -143,7 +143,7 @@ img:hover{
 }
 .work-item{
   display: inline-block;
-  width: 300px;
+  width: 200px;
   margin: 15px;
 }
 svg:not(:root) {
